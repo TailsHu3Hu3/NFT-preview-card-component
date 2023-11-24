@@ -63,7 +63,7 @@ body {
     cursor: pointer;
 }
 
-h2 {
+h1 {
     color: white;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -74,7 +74,7 @@ h2 {
     padding-left: 20px;
 }
 
-h3 {
+h2 {
     padding-left: 20px;
     text-align: left;
     color: hsl(215, 51%, 70%);
@@ -84,7 +84,7 @@ h3 {
 }
 
 
-h2:hover {
+h1:hover {
     color: hsl(178, 100%, 50%);
     cursor: pointer;
     transition-duration: 400ms;
@@ -221,11 +221,11 @@ h2:hover {
         width: 225px;
     }
 
-    h2 {
+    h1 {
         font-size: 20px;
     }
 
-    h3 {
+    h2 {
         font-size: 14px;
     }
 
